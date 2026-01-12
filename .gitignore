@@ -1,0 +1,21 @@
+# Godot cache & imports
+.godot/
+.import/
+
+# Exported builds / local packaging
+/export/
+*.pck
+*.zip
+*.exe
+*.app
+*.x86_64
+*.dmg
+*.tar.gz
+
+# OS junk
+.DS_Store
+Thumbs.db
+
+# IDEs
+.idea/
+.vscode/
